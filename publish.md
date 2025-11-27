@@ -15,12 +15,13 @@ This letter serves the following purposes:
 
 ## 1. Why this is sent {#1-the-why}
 
-This is to ease your (as in the bank's) uneasiness, and bring clarity from my end.
+This is to ease your (as in the bank's) uneasiness, and bring clarity to the table from my end.
 
-I apologize for being so late in sending this. I've been trying, but the greatest reasons were
+I apologize for being so late in sending this writeup. I've been trying, but the greatest reasons of delay were
 
- * my guilt of not being able to pay, and
- * reluctance to speak up without proper paperwork (especially to someone with huge authority as yours).
+ * my guilt of not being able to pay,
+ * reluctance to speak up without proper paperwork (especially to someone with huge authority as yours), and
+ * my circumstances
 
 ## 3. Important note on how to read this {#3-the-how}
 
@@ -30,7 +31,7 @@ So I am sending a "good enough" draft, **please note** this is live document, I 
 
 Also, this is written by me. I am an (sub-average) engineer, not a lawyer, and I didn't hire anyone to write this for me.
 
-To prove my goodwill, nature of upholding ethics, abiding with law to best of my knowledge, and non-malevolence <!--(e.g. changing claims in a way that drastically changes narrative)--> this document lives on a github git repo where you can track every change. And every version that's good enough will have a cryptographically secure hash printed in header TODO.
+To help strengthen my goodwill and further prove my nature of upholding ethics, abiding with law to best of my knowledge, and non-malevolence <!--(e.g. changing claims in a way that drastically changes narrative)--> this document lives on a github git repo where you can track every change. And every version that's good enough will have a cryptographically secure hash printed in header TODO.
 
 If you send me an email ID, I could include you in a group so you can see updates (which progressively proves genuineness of the case) as they happen on the repo.
 
@@ -77,7 +78,7 @@ I feel ashamed of writing the following words, but
 
 ### Goodwill (past present and future)
 
-You probably think of me as a cheat/thief/low-life, so I won't spend time preaching numbers or famous blunders. But I must try to appeal to your better judgement:
+You probably think of me as a cheat/thief/low-life, so I won't spend time preaching numbers or famous blunders. But, on basis of objective evidence of past, I must try to appeal to your better judgement:
 
  * I am hardworking
 
