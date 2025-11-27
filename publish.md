@@ -2,7 +2,7 @@
 
 ## 2. What is this {#2-the-what}
 
-A letter from ICICI customer (customer ID TODO), who has not paid EMIs regularly for loans TODO.
+A letter from ICICI customer (account number 00030 161 3381), who has not paid EMIs regularly for loans LPBRD00050403016 and LPBRD00050846805.
 
 This letter serves the following purposes:
 
