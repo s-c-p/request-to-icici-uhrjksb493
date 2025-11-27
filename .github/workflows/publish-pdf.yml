@@ -1,0 +1,70 @@
+name: Build PDF from Markdown
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install pandoc and wkhtmltopdf
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc wkhtmltopdf
+
+      - name: Compute SHA256 of publish.md
+        id: sha256
+        run: |
+          SHA256=$(sha256sum publish.md | awk '{print $1}')
+          echo "sha256=$SHA256" >> $GITHUB_OUTPUT
+
+      - name: Get HEAD commit SHA
+        id: headsha
+        run: |
+          HEADSHA=$(git rev-parse HEAD)
+          echo "headsha=$HEADSHA" >> $GITHUB_OUTPUT
+
+      - name: Create a modified markdown with metadata visible inside PDF
+        id: buildfile
+        run: |
+          cp publish.md publish_with_meta.md
+
+          echo "" >> publish_with_meta.md
+          echo "<div style=\"page-break-after: always;\"></div>" >> publish_with_meta.md
+          echo "" >> publish_with_meta.md
+
+          echo "## Build Metadata" >> publish_with_meta.md
+          echo "" >> publish_with_meta.md
+          echo "**publish.md SHA256:**  \`${{ steps.sha256.outputs.sha256 }}\`" >> publish_with_meta.md
+          echo "" >> publish_with_meta.md
+          echo "**Repository HEAD Commit:**  \`${{ steps.headsha.outputs.headsha }}\`" >> publish_with_meta.md
+          echo "" >> publish_with_meta.md
+
+          echo "buildfile=publish_with_meta.md" >> $GITHUB_OUTPUT
+
+      - name: Convert modified markdown to HTML (inject metadata too)
+        run: |
+          pandoc ${{ steps.buildfile.outputs.buildfile }} \
+            --from markdown \
+            --to html \
+            --standalone \
+            -M sha256="${{ steps.sha256.outputs.sha256 }}" \
+            -M headsha="${{ steps.headsha.outputs.headsha }}" \
+            -o publish.html
+
+      - name: Convert publish.html → publish.pdf (page-break support)
+        run: |
+          wkhtmltopdf \
+            --enable-local-file-access \
+            publish.html publish.pdf
+
+      - name: Upload PDF to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: publish.pdf
+
