@@ -44,7 +44,7 @@ https://github.com/s-c-p/request-to-icici-uhrjksb493
 I am victim of (please note the bullet points are not numbered since they affect each other, and ordering doesn't make sense):
 
  * illegal lay off (social discrimination) (TODO #later) which left me in a mental **and** legal state that prevents me from getting a white collar job
- * illegal salary denial the same company that did the above (missed raises can't be proven here, but will be included in above evidence, and they didn't give 2 months salary but filed 26AS otherwise see: )
+ * illegal salary denial the same company that did the above (missed raises can't be proven here, but will be included in above evidence, and they didn't give 2 months salary but filed 26AS otherwise see: https://bit.ly/4pcrB0w)
  * I suffered cognitive and functional decline due to job and mother's condition (leading to physiological issues also) 
  * (during clonazepam prescription) psychiatric medicines which prevent me from driving 2-wheeler or operating machinery safely
  * I had to stop psychiatric medicines to protect my father's mental health - suddenly stopping medication (half-way, that too psychiatric medicines) back fires and leaves me in severe anxiety (among other conditions) and unable to function normally (in June 2022: I was good enough e.g. finished 2 programmers week worth of work in 6 hours in one sitting, but in current times it took me 5 months to write this)
@@ -93,7 +93,7 @@ You probably think of me as a cheat/thief/low-life, so I won't spend time preach
    * got scholarship in programming language design in 2022
    * got several scholarships (but couldn't join any) from several schools for AI and ML
    * independently discovered Djikstra's A* seach algorithm
-   * was [working](https://github.com/s-c-p/letter-to-icici-for-pl/blob/57d18e2c9302081cfb0de3cf3e9a154b49046e68/assets/ai-work.png) on AI image/video generation and broken-english-but-hallucination-free SME chatbot **in 2022** (ChatGPT was available for public in November, I had working prototype in March see https://bit.ly/4a0SiAz; *can you name one India-based IITian/IISc-ian who was working on either image-gen/NLU-chatbots in that era?*)
+   * was [working](https://github.com/s-c-p/letter-to-icici-for-pl/blob/57d18e2c9302081cfb0de3cf3e9a154b49046e68/assets/ai-work.png) on AI image/video generation and broken-english-but-hallucination-free SME chatbot **in 2022** (ChatGPT was available for public in November, I had working prototype in March see https://bit.ly/4a0SiAz ; *I do not know of **any** India-based IITian/IISc-ian who was working on either image-gen/actually-good-chatbot before ChatGPT gained traction*)
 
  * I am honest
 
