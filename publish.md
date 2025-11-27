@@ -32,7 +32,7 @@ Also, this is written by me. I am an (sub-average) engineer, not a lawyer, and I
 
 To prove my goodwill, nature of upholding ethics, abiding with law to best of my knowledge, and non-malevolence <!--(e.g. changing claims in a way that drastically changes narrative)--> this document lives on a github git repo where you can track every change. And every version that's good enough will have a cryptographically secure hash printed in header TODO.
 
-If you send me an email ID, I could include you in a group so you can see updates (which progressively proves genuiness of the case) as they happen on the repo.
+If you send me an email ID, I could include you in a group so you can see updates (which progressively proves genuineness of the case) as they happen on the repo.
 
 TODO share master branch link
 
@@ -40,7 +40,7 @@ TODO share master branch link
 
 ### Why not paying EMIs
 
-I am victim of (please note the bullent points are not numbered since they affect each other, and ordering doesn't make sense):
+I am victim of (please note the bullet points are not numbered since they affect each other, and ordering doesn't make sense):
 
  * illegal lay off (social discrimination) (TODO #later) which left me in a mental **and** legal state that prevents me from getting a white collar job
  * illegal salary denial the same company that did the above (missed raises can't be proven here, but will be included in above evidence, and they didn't give 2 months salary but filed 26AS otherwise TODO)
@@ -92,14 +92,14 @@ You probably think of me as a cheat/thief/low-life, so I won't spend time preach
    * got scholarship in programming language design in 2022
    * got several scholarships (but couldn't join any) from several schools for AI and ML
    * independently discovered Djikstra's A* seach algorithm
-   * was working on AI image/video generation and broken-english-but-hallucination-free SME chatbot **in TODO** (like Mendel and Darwin working on evolution in 1860s but with different apporaches and domicile; *can you name one India-based IITian/IISc-ian who was working on either image-gen/NLU-chatbots in that era?*)
+   * was working on AI image/video generation and broken-english-but-hallucination-free SME chatbot **in TODO** (like Mendel and Darwin working on evolution in 1860s but with different approaches and domicile; *can you name one India-based IITian/IISc-ian who was working on either image-gen/NLU-chatbots in that era?*)
 
  * I am honest
 
    * I never copied answers in exam after 9th standard
    * Turned down chance to study in Canada because I felt I didn't justify the course requirements (despite professor extending offer letter and visa)
    * I approached you (as in the bank) before I was about to default
-   * I was actually hopeful of getting a job, and **didn't have any plan/intent to default on the laons**, which is why instead of running away with extra ~4 lac I got in February 2025, I chose to stay put and continued paying EMIs till June 2025.
+   * I was actually hopeful of getting a job, and **didn't have any plan/intent to default on the loans**, which is why instead of running away with extra ~4 lac I got in February 2025, I chose to stay put and continued paying EMIs till June 2025.
 
 <div style="page-break-after: always;"></div>
 
