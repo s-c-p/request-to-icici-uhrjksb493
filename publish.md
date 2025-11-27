@@ -1,5 +1,15 @@
 .
 
+To,  
+Ms. Sharlet Malvankar  
+Principal Nodal Officer  
+ICICI Bank Ltd Bandra Kurla complex Mumbai 400051
+
+From,  
+Satish C Prasad  
+A7, Satyam Society, near Bansal Mall, Gotri,  
+Vadodara GJ - 390021
+
 ## 1. What is this {#2-the-what}
 
 A letter from ICICI customer (account number 00030 161 3381), who has not paid EMIs regularly for loans LPBRD00050403016 and LPBRD00050846805.
@@ -13,9 +23,11 @@ This letter serves the following purposes:
 
  2. request amicable terms and moratorium period
 
+I am not in the best cognitive/psychological condition, so please pardon the poor presentation.
+
 ## 2. Why this is sent {#1-the-why}
 
-This is to ease your (as in the bank's) uneasiness, and bring clarity to the table from my end.
+This is to ease your (as in the bank's) uneasiness, and bring clarity to the table from my end. I do not know who to contact, and don't wanna disturb the MD, so I am contacting you.
 
 I apologize for being so late in sending this writeup. I've been trying, but the greatest reasons of delay were
 
@@ -25,7 +37,7 @@ I apologize for being so late in sending this writeup. I've been trying, but the
 
 ## 3. Important note on how to read this {#3-the-how}
 
-I am not in the best psychological condition and have cognitive decline also, but *me not communicating due to fear and anxiety is making both of us (the bank and me) more uneasy everyday*.
+Me not communicating with the bank due to fear and anxiety is making both of us (the bank and me) more uneasy everyday.
 
 So I am sending a "good enough" draft, **please note** this is live document, I will add supporting evidence to as many claims as possible when possible.
 
