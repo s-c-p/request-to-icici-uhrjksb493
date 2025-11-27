@@ -59,10 +59,10 @@ I am victim of (please note the bullet points are not numbered since they affect
 
  * illegal lay off (social discrimination) (TODO include emails photo) which left me in a mental *and* legal state that prevents me from getting a white collar job
  * illegal salary denial by the same employer (I can't prove missed raises trivially, but they didn't give 2 months salary but filed false documentation that they gave salary to me see: https://bit.ly/4pcrB0w)
+ * prolonged social torture towards my entire family
  * I suffered cognitive and functional decline due to job and mother's condition (leading to physiological issues also) 
  * (during clonazepam prescription) psychiatric medicines which prevent me from driving 2-wheeler or operating machinery safely
  * I had to stop psychiatric medicines to protect my father's mental health - suddenly stopping medication (half-way, that too psychiatric medicines) back fires and leaves me in severe anxiety (among other conditions) and unable to function normally (in June 2022: I was good enough e.g. finished 2 programmers week worth of work in 6 hours in one sitting, but in current times it took me 5 months to write this)
- * prolonged social torture towards my entire family
 
 I feel ashamed of writing the following words, but 
 
