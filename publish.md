@@ -1,6 +1,6 @@
 .
 
-## 2. What is this {#2-the-what}
+## 1. What is this {#2-the-what}
 
 A letter from ICICI customer (account number 00030 161 3381), who has not paid EMIs regularly for loans LPBRD00050403016 and LPBRD00050846805.
 
@@ -13,7 +13,7 @@ This letter serves the following purposes:
 
  2. request amicable terms and moratorium period
 
-## 1. Why this is sent {#1-the-why}
+## 2. Why this is sent {#1-the-why}
 
 This is to ease your (as in the bank's) uneasiness, and bring clarity to the table from my end.
 
@@ -58,7 +58,7 @@ I feel ashamed of writing the following words, but
 
 ### Bank's infractions
 
-(I am already scared of your power, what can I say...)
+(I don't want conflict, so this data is not included)
 
 <!--I believe the following are applicable (from me onto you):
 
@@ -78,7 +78,7 @@ I feel ashamed of writing the following words, but
 
 ### Goodwill (past present and future)
 
-You probably think of me as a cheat/thief/low-life, so I won't spend time preaching numbers or famous blunders. But, on basis of objective evidence of past, I must try to appeal to your better judgement:
+You probably think of me as a cheat/thief/low-life, but I must try to appeal to your better judgement:
 
  * I am hardworking
 
@@ -88,7 +88,7 @@ You probably think of me as a cheat/thief/low-life, so I won't spend time preach
    * scored 8.5 bands in IELTS Academic
    * completed several projects with namesake team support
 
- * I may have potential
+ * I have potential, and I keep trying
 
    * got scholarship in programming language design in 2022
    * got several scholarships (but couldn't join any) from several schools for AI and ML
@@ -100,7 +100,7 @@ You probably think of me as a cheat/thief/low-life, so I won't spend time preach
    * I never copied answers in exam after 9th standard
    * Turned down chance to study in Canada because I felt I didn't justify the course requirements (despite professor extending offer letter and visa)
    * I approached you (as in the bank) before I was about to default
-   * I was actually hopeful of getting a job, and **didn't have any plan/intent to default on the loans**, which is why instead of otherwise running away with extra ~4 lac that I got in February 2025, I **chose to stay put and continued paying EMIs until it was possible** June 2025.
+   * I was actually hopeful of getting a job, and **didn't have any plan/intent to default on the loans**, which is why instead of otherwise running away with extra ~4 lac that I got in February 2025, I **chose to stay put and continued paying EMIs until it was possible** (June 2025).
 
 <div style="page-break-after: always;"></div>
 
