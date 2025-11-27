@@ -100,7 +100,7 @@ You probably think of me as a cheat/thief/low-life, so I won't spend time preach
    * I never copied answers in exam after 9th standard
    * Turned down chance to study in Canada because I felt I didn't justify the course requirements (despite professor extending offer letter and visa)
    * I approached you (as in the bank) before I was about to default
-   * I was actually hopeful of getting a job, and **didn't have any plan/intent to default on the loans**, which is why instead of running away with extra ~4 lac I got in February 2025, I chose to stay put and continued paying EMIs till June 2025.
+   * I was actually hopeful of getting a job, and **didn't have any plan/intent to default on the loans**, which is why instead of otherwise running away with extra ~4 lac that I got in February 2025, I **chose to stay put and continued paying EMIs until it was possible** June 2025.
 
 <div style="page-break-after: always;"></div>
 
@@ -108,7 +108,7 @@ You probably think of me as a cheat/thief/low-life, so I won't spend time preach
 
 As discussed earlier, my only focus and priorities are my father's health and earning enough to get gold back.
 
-Therefore, despite having some money (left from gold loan), I will earn and save as much as possible for gold loan settlement and not be able to make any EMI deposits towards loans TODO from ICICI. As requested earlier, please ***consider*** the following:
+Therefore, despite having some money (left from gold loan), I will earn and save as much as possible for gold loan settlement and not be able to make any EMI deposits towards loans LPBRD00050403016 and LPBRD00050846805. As requested earlier, please ***consider*** the following:
 
  1. in light of circumstances and merit of the case: writing off both the loans so that I am not entitled to pay any amount for closure.
  2. (my preference) please give a moratorium period of 12-20 years so I can pay the amount back to ICICI.
