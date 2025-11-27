@@ -8,8 +8,8 @@ This letter serves the following purposes:
 
  1. provides sound reason for
 
-   1.1 me not paying EMIs regularly since June 2025
-   1.2 my inability to start EMI payment anytime soon
+   a. me not paying EMIs regularly since June 2025
+   b. my inability to start EMI payment anytime soon
 
  2. request amicable terms and moratorium period
 
@@ -32,6 +32,8 @@ Also, this is written by me. I am an (sub-average) engineer, not a lawyer, and I
 
 To prove my goodwill, nature of upholding ethics, abiding with law to best of my knowledge, and non-malevolence <!--(e.g. changing claims in a way that drastically changes narrative)--> this document lives on a github git repo where you can track every change. And every version that's good enough will have a cryptographically secure hash printed in header TODO.
 
+If you send me an email ID, I could include you in a group so you can see updates (which progressively proves genuiness of the case) as they happen on the repo.
+
 TODO share master branch link
 
 <div style="page-break-after: always;"></div>
@@ -51,6 +53,8 @@ I feel ashamed of writing the following words, but
  * my mother was combating some form of neurological issue (doctors labelled it atypical/vascular parkinsonism) and her condition declined approximately bi-monthly in last 3 years (please cross examine that most of my expenditure was on medical bills only). Since mid-January 2025 most of my time had
  * I took gold loan to feed my family, but . my mother went to Kailash . few months back, and my only focus, if any, is to earn enough money to get the gold back
 
+<div style="page-break-after: always;"></div>
+
 ### Bank's infractions
 
 (I am already scared of your power, what can I say...)
@@ -68,6 +72,8 @@ I feel ashamed of writing the following words, but
  * tresspassing despite warning
  * harassment
  * preventing access to stable life and job-->
+
+<div style="page-break-after: always;"></div>
 
 ### Goodwill (past present and future)
 
@@ -94,6 +100,8 @@ You probably think of me as a cheat/thief/low-life, so I won't spend time preach
    * Turned down chance to study in Canada because I felt I didn't justify the course requirements (despite professor extending offer letter and visa)
    * I approached you (as in the bank) before I was about to default
    * I was actually hopeful of getting a job, and **didn't have any plan/intent to default on the laons**, which is why instead of running away with extra ~4 lac I got in February 2025, I chose to stay put and continued paying EMIs till June 2025.
+
+<div style="page-break-after: always;"></div>
 
 ### Proposal
 
