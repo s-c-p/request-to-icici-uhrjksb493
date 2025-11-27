@@ -10,6 +10,8 @@ Satish C Prasad
 A7, Satyam Society, near Bansal Mall, Gotri,  
 Vadodara GJ - 390021
 
+Date: 26 November, 2025
+
 ## 1. What is this {#2-the-what}
 
 A letter from ICICI customer (account number 00030 161 3381), who has not paid EMIs regularly for loans LPBRD00050403016 and LPBRD00050846805.
