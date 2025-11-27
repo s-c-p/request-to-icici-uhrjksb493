@@ -62,6 +62,7 @@ I am victim of (please note the bullet points are not numbered since they affect
  * I suffered cognitive and functional decline due to job and mother's condition (leading to physiological issues also) 
  * (during clonazepam prescription) psychiatric medicines which prevent me from driving 2-wheeler or operating machinery safely
  * I had to stop psychiatric medicines to protect my father's mental health - suddenly stopping medication (half-way, that too psychiatric medicines) back fires and leaves me in severe anxiety (among other conditions) and unable to function normally (in June 2022: I was good enough e.g. finished 2 programmers week worth of work in 6 hours in one sitting, but in current times it took me 5 months to write this)
+ * prolonged social torture towards my entire family
 
 I feel ashamed of writing the following words, but 
 
